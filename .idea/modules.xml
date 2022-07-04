@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Horoscope-API-master.iml" filepath="$PROJECT_DIR$/Horoscope-API-master.iml" group="Horoscope-API-master" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Horoscope-API-master/app" />
-      <module fileurl="file://$PROJECT_DIR$/horoscope-api/horoscope-api.iml" filepath="$PROJECT_DIR$/horoscope-api/horoscope-api.iml" group="Horoscope-API-master/horoscope-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple-Horoscope-Android-Application.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple-Horoscope-Android-Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Simple-Horoscope-Android-Application.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Simple-Horoscope-Android-Application.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Simple-Horoscope-Android-Application.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Simple-Horoscope-Android-Application.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Simple-Horoscope-Android-Application.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Simple-Horoscope-Android-Application.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Simple-Horoscope-Android-Application.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Simple-Horoscope-Android-Application.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/horoscope-api/Simple-Horoscope-Android-Application.horoscope-api.iml" filepath="$PROJECT_DIR$/.idea/modules/horoscope-api/Simple-Horoscope-Android-Application.horoscope-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/horoscope-api/Simple-Horoscope-Android-Application.horoscope-api.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/horoscope-api/Simple-Horoscope-Android-Application.horoscope-api.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/horoscope-api/Simple-Horoscope-Android-Application.horoscope-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/horoscope-api/Simple-Horoscope-Android-Application.horoscope-api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/horoscope-api/Simple-Horoscope-Android-Application.horoscope-api.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/horoscope-api/Simple-Horoscope-Android-Application.horoscope-api.unitTest.iml" />
     </modules>
   </component>
 </project>
